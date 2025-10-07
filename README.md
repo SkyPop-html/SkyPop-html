@@ -1,7 +1,7 @@
 
 <h1 align="center">👋Konnichiwa, Iam KUNAL SHARMA</h1>
 <h3 align="center">a fresher coder passionate about learning and exploring the world of programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+<center><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skypop-html" alt="skypop-html" /></a> </p>
 
