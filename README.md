@@ -1,13 +1,13 @@
 
 <h1 align="center">👋Konnichiwa, Iam KUNAL SHARMA</h1>
 <h3 align="center">a fresher coder passionate about learning and exploring the world of programming.</h3>
-<center><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"></center>
+<center><img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.fd05906aecf0f263c7a3bf37798ae9cb?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fgiffiles.alphacoders.com%2f193%2f193005.gif&ehk=ma45bpwWFa5kNnfdaT302xE0Kem%2byCbdGMInzfAjS94%3d"></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skypop-html" alt="skypop-html" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Embedded C**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Embedded Systems**
 
 - 📫 How to reach me **notalpha29@gmail.com**
 
